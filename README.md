@@ -23,3 +23,11 @@ Parte 2 _ Entradas
     1_Leia dois números e imprima o maior deles
 
     2_Leia uma letra, se for “M” imprima “Masculino, se for “F” imprima “Feminino”senão imprima “Sexo invalido”.
+
+Parte 3 _ Loops de Repetição
+
+    1_Imprima a tabuada de multiplicação de um número digitado pelo usuário;
+
+    2_Some os números impares de 0 a 100;
+
+    3_Imprima uma frase digitada pelo usuário, continue lendo e imprimindo até o usuário digitar SAIR
