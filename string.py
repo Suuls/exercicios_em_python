@@ -1,22 +1,22 @@
-# A partir da string “!! ! a;b;c;d;e;f;gh!#########” gere o resultado ['a', 'b', 'c', 'd', 'e', 'f', 'g']
+# Exercicio 1
 
 string = "!! ! a;b;c;d;e;f;gh!#########"
 print(string)
 print(string.strip(" !#h").split(";"))
 
-#A partir da string “ring ring! - hello!“ gere o resultado:
+# Exercicio 2
 
 string = "ring ring! - hello!"
 print(string)
 print(string.strip("ring ring!"))
 
-#Transformar a string “isso deve ser bom” para “Isso Deve Ser Bom”
+# Exercicio 3
 
 string = "isso deve ser bom"
 print (string)
 print(string.title())
 
-#Transformar a string “abacate azul” em “4b4c4te 4zul”
+# Exercicio 4
 
 string = "abacate azul"
 print(string)
