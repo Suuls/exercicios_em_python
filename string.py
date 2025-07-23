@@ -14,5 +14,10 @@ print(string.strip("ring ring!"))
 
 string = "isso deve ser bom"
 print (string)
-for word in string.split():
-    print(word.capitalize(), end=" ")
+print(string.title())
+
+#Transformar a string “abacate azul” em “4b4c4te 4zul”
+
+string = "abacate azul"
+print(string)
+print(string.replace("a","4"))
