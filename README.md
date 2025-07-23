@@ -31,3 +31,9 @@ Parte 3 _ Loops de Repetição
     2_Some os números impares de 0 a 100;
 
     3_Imprima uma frase digitada pelo usuário, continue lendo e imprimindo até o usuário digitar SAIR
+
+Parte 4 _ Funções
+
+    1_Faça uma função para calcular o fatorial de um número (função não recursiva)
+
+    2_Faça uma função para verificar se um número é primo ou não
