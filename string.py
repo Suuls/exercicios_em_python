@@ -9,3 +9,10 @@ print(string.strip(" !#h").split(";"))
 string = "ring ring! - hello!"
 print(string)
 print(string.strip("ring ring!"))
+
+#Transformar a string “isso deve ser bom” para “Isso Deve Ser Bom”
+
+string = "isso deve ser bom"
+print (string)
+for word in string.split():
+    print(word.capitalize(), end=" ")
