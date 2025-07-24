@@ -1,4 +1,4 @@
-# Seleteção de Exercícios em Python
+# Seleção de Exercícios em Python
 
 exercicio = input("Selecione o exercício (1-2): ")
 
@@ -9,8 +9,8 @@ match exercicio:
     # Exercicio 1
 
     case "1":
-        numero1 = input("Digite o primeiro número: ")
-        numero2 = input("Digite o segundo número: ")
+        numero1 = float(input("Digite o primeiro número: "))
+        numero2 = float(input("Digite o segundo número: "))
 
         if numero1 > numero2:
             print(f"{numero1} é maior que {numero2}")
