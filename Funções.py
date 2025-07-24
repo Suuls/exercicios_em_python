@@ -1,6 +1,6 @@
 # Seleteção de Exercícios em Python
 
-exercicio = input("Selecione o exercício (1-3): ")
+exercicio = input("Selecione o exercício (1-2): ")
 
 match exercicio:
 
